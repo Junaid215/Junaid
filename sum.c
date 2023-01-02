@@ -5,5 +5,5 @@ int main()
     x= 20;
     y = 30;
     sum = x+y;
-    
+    printf("The sum is %d", sum);
 }
